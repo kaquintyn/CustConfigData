@@ -1,8 +1,7 @@
 ---
-mongo:
-  db:
-    server: localhost
-      port: 27017
-    name: customer
-    collection: mycol
+mongodb:
+  server: localhost
+  port: 27017
+  name: customer
+  collection: mycol
 ...
