@@ -1,8 +1,9 @@
 ---
 host:
   name: localhost
-port:
-  number: 27017
+server:
+  port: 27017
 database:
   name: customer
   collection: mycol
+...
