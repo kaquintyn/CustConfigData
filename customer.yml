@@ -5,9 +5,4 @@ spring:
       host: localhost
       port: 27017
       database: customer
-mongodb:
-  server: localhost
-  port: 27017
-  name: customer
-  collection: mycol
 ...
