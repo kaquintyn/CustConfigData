@@ -1,4 +1,10 @@
 ---
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: customer
 mongodb:
   server: localhost
   port: 27017
