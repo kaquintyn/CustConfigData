@@ -6,7 +6,7 @@ spring:
       port: 27017
       database: customer
 omdb:
+  apikey: 614ab7ae
   base:
     url: http://www.omdbapi.com
-    apikey: 614ab7ae
 ...
